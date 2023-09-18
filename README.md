@@ -1,5 +1,7 @@
 # BMRTA: Energy Efficient Multi-Robot Task Allocation Constrained by Time Window and Precedence
 
+L. Zhang, J. Zhao, E. Lamon, Y. Wang and X. Hong, "Energy Efficient Multi-Robot Task Allocation Constrained by Time Window and Precedence," in IEEE Transactions on Automation Science and Engineering, doi: [10.1109/TASE.2023.3312214.](https://ieeexplore.ieee.org/document/10252157)
+
 ## Abstract
 
 To meet the demands in terms of energy-efficient and fast production and delivery of goods, robotic fleets began to populate warehouses and industrial environments. To maximize the profitability of the operations, multi-robot systems are required to coordinate agents avoiding downtime efficiently. 
